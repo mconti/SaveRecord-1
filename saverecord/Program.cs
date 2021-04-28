@@ -16,9 +16,7 @@ namespace saverecord
             // 2) Scrivere la List<Comune> in un file binario.
             c.Save();
 
-        
             // Rileggere il file binario in una List<Comune>.
-
         }
     }
 }
